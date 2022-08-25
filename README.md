@@ -1,4 +1,4 @@
-## Droga, é o Brian! 🚗
+## Olá, Brian aqui 
 
 - 💼 Atualmente trabalho em Compras.
 - 👀 Em transição para área de desenvolvimento.
