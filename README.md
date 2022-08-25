@@ -1,4 +1,4 @@
-## Olá, Brian aqui 
+## Olá, sou o Brian e esse é o meu GitHub. 🧑🏽‍💻
 
 - 💼 Atualmente trabalho em Compras.
 - 👀 Em transição para área de desenvolvimento.
