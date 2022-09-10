@@ -1,9 +1,5 @@
 ## Olá, sou o Brian e esse é o meu GitHub. 🧑🏽‍💻
 
-- 💼 Atualmente trabalho em Compras.
-- 👀 Em transição para área de desenvolvimento.
-- 🌱 Estudando front-end.
-
 <div align="center">
   <a href="https://github.com/briangonc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=briangonc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
