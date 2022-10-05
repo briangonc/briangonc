@@ -72,11 +72,11 @@ Tenho 26 anos, moro em Embu das Artes/SP, sou apaixonado por programação e tec
 ##
 <p align="center">
 <a href="https://github.com/briangonc">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=briangonc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=briangonc&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=briangonc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=briangonc&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<div> 
+<div align="center"> 
      
   ![Snake animation](https://github.com/briangonc/briangonc/blob/output/github-contribution-grid-snake.svg)
  
