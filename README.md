@@ -7,16 +7,16 @@
  
  <h1 align="left">Brian Gonçalves</h1>
  <a href="https://instagram.com/briangonc">
-    <img align="left" width="50px" src="https://user-images.githubusercontent.com/100818355/193978237-493e4ab9-80cc-4ee9-bc63-15b9d54781bd.png" alt="instagram" style="vertical-align:top;">
+    <img align="left" width="40px" src="https://user-images.githubusercontent.com/100818355/193978237-493e4ab9-80cc-4ee9-bc63-15b9d54781bd.png" alt="instagram" style="vertical-align:top;">
   </a> 
   <a href="mailto:souzabrian61@gmail.com">
-    <img align="left" width="50px" src="https://user-images.githubusercontent.com/100818355/193978961-77801cd4-33ad-4a3f-923b-c7825f3b4afb.png" alt="gmail" style="vertical-align:top;">
+    <img align="left" width="40px" src="https://user-images.githubusercontent.com/100818355/193978961-77801cd4-33ad-4a3f-923b-c7825f3b4afb.png" alt="gmail" style="vertical-align:top;">
     </a>
   <a href="https://www.linkedin.com/in/brian-goncalves-souza">
-    <img align="left" width="50px" src="https://user-images.githubusercontent.com/100818355/193978700-bfad9c1d-faa4-43f1-9281-f0d329492503.png" alt="linkedin" style="vertical-align:top;">
+    <img align="left" width="40px" src="https://user-images.githubusercontent.com/100818355/193978700-bfad9c1d-faa4-43f1-9281-f0d329492503.png" alt="linkedin" style="vertical-align:top;">
   </a> 
    <a href="https://wa.me/+5531994139680">
-      <img align="left" width="50px" src="https://user-images.githubusercontent.com/100818355/193981368-5f11d216-df98-4b9b-b415-0b4624db3b7c.png" alt="whatsapp" style="vertical-align:top;">
+      <img align="left" width="40px" src="https://user-images.githubusercontent.com/100818355/193981368-5f11d216-df98-4b9b-b415-0b4624db3b7c.png" alt="whatsapp" style="vertical-align:top;">
   </a>
 </div>
 
