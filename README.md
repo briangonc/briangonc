@@ -41,11 +41,11 @@ Tenho 27 anos, moro em Embu das Artes/SP, sou apaixonado por programação e tec
 <img width="300px" align="right" src="https://user-images.githubusercontent.com/100818355/193974970-862830c9-9b2b-4fa1-83a2-61c0fcf72af0.png">
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title = "CSS3"/></code>
-<code><img width="40px" src="https://user-images.githubusercontent.com/100818355/193979181-34b723e8-cbaa-4cef-961a-38e7ba787a38.png" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title = "Java"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" title = "Bitbucket"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title = "OracleDB"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" title = "BITBUCKET"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title = "ORACLE"/></code>
 
 
 
