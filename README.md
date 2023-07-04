@@ -43,7 +43,7 @@ Tenho 27 anos, moro em Embu das Artes/SP, sou apaixonado por programação e tec
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title = "JAVA"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title = "ORACLE"/></code>
+<code><img width="40px" src="https://1.bp.blogspot.com/-zXOuB19g8Pw/YHG-qOjsyrI/AAAAAAAAD0E/oWk1Zi4aXAkPgUZf4Ykbm56_o9k9x82uwCPcBGAYYCw/s512/Oracle-plSql.jpg" title = "ORACLE"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" title = "BITBUCKET"/></code>
 
