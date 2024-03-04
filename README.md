@@ -29,7 +29,7 @@
 ## Olá, eu sou o Brian e esse é o meu GitHub. 🧑🏽‍💻
 
 
-Tenho 27 anos, moro em Embu das Artes/SP, sou apaixonado por programação e tecnologia. Passo raiva com programação a pouco tempo, porém quanto mais eu estudo e me aprofundo nesse universo, mais certeza eu tenho de que sou feliz fazendo o que faço.
+Tenho 28 anos, moro em Embu das Artes/SP, sou apaixonado por programação e tecnologia. Passo raiva com programação a pouco tempo, porém quanto mais eu estudo e me aprofundo nesse universo, mais certeza eu tenho de que sou feliz fazendo o que faço.
 
 <p align="center">
   <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="350" border-radius="300">
