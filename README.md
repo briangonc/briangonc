@@ -83,8 +83,3 @@ Tenho 28 anos, moro em Embu das Artes/SP, sou apaixonado por programação e tec
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=briangonc&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<div align="center"> 
-     
-  ![Snake animation](https://github.com/briangonc/briangonc/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
