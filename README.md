@@ -1,10 +1,12 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/100818355/193976687-98195186-fea5-48b4-91ee-c93e847c1522.png">
+<div>
+<h1 align="left">Brian Gonçalves</h1>
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/100818355/193976687-98195186-fea5-48b4-91ee-c93e847c1522.png">
+</div>
+
 
 </br>
 
 <div dsplay="inline-block">
- 
- <h1 align="left">Brian Gonçalves</h1>
  <a href="https://instagram.com/briangonc">
     <img align="left" width="35px" src="https://user-images.githubusercontent.com/100818355/193978237-493e4ab9-80cc-4ee9-bc63-15b9d54781bd.png" alt="instagram" style="vertical-align:top;">
   </a> 
@@ -20,6 +22,11 @@
 </div>
 
 
+</br>
+</br>
+</br>
+</br>
+</br>
 </br>
 </br>
 </br>
