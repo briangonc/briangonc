@@ -1,6 +1,6 @@
 <div>
 <h1 align="left">Brian Gonçalves</h1>
-<img align="right" style="width: 200px; height: auto;" src="https://user-images.githubusercontent.com/100818355/193976687-98195186-fea5-48b4-91ee-c93e847c1522.png">
+  <img align="right" style="width: 250px; height: auto;" src="https://user-images.githubusercontent.com/100818355/193976687-98195186-fea5-48b4-91ee-c93e847c1522.png">
 </div>
 
 
