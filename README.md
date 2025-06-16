@@ -36,7 +36,7 @@
 ## Olá, eu sou o Brian e esse é o meu GitHub. 🧑🏽‍💻
 
 
-Moro em Embu das Artes/SP, sou apaixonado por programação e tecnologia. Passo raiva com programação a pouco tempo, porém quanto mais eu estudo e me aprofundo nesse universo, mais certeza eu tenho de que sou feliz fazendo o que faço.
+Moro em Embu das Artes/SP e sou apaixonado por programação e tecnologia. Apesar de estar lidando com os desafios da programação há pouco tempo — e, claro, passando um pouco de raiva no processo — a cada novo aprendizado, tenho mais certeza de que é isso que me faz feliz.
 
 <p align="center">
   <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="350" border-radius="300">
